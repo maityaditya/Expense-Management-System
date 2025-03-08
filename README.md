@@ -13,7 +13,7 @@ This project is an expense management system that consists of a Streamlit fronte
 
 ## Pictures for the Website
 
-
+![Image](https://github.com/user-attachments/assets/4a7560cf-fea8-467a-a985-ea6c299177f6)
 
 ## Setup Instructions
 
