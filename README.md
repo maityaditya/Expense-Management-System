@@ -17,8 +17,10 @@ This project is an expense management system that consists of a Streamlit fronte
 ![Image](https://github.com/user-attachments/assets/4a7560cf-fea8-467a-a985-ea6c299177f6)
 
 -**Analytics by categories/**
+![Image](https://github.com/user-attachments/assets/b82dfdb7-445d-43bf-8a25-31320f4ff5a4)
 
 -**Analytics by months/**
+![Image](https://github.com/user-attachments/assets/0b5887a1-4f65-4270-8238-ca7c6211cb26)
 
 ## Setup Instructions
 
